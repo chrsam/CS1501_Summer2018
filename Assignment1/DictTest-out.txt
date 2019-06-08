@@ -1,0 +1,12 @@
+abc is a word
+abe is a word and prefix
+abet is a word and prefix
+abx is not found
+ace is a word and prefix
+acid is a word and prefix
+hives is not found
+iodin is a prefix
+inval is a prefix
+zoo is a word and prefix
+zool is a prefix
+zurich is a word

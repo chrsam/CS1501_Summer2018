@@ -1,0 +1,12 @@
+Name: Christian Mananghaya
+Assignment #: 1
+Program due date: 6/7/2018
+Handed in data: 6/9/2018
+JDK Version: 1.8.0
+Source code file name(s): Crossword.java, DictInterface.java, MyDictionary.java
+Compiled file name(s); DictInterface.class, MyDictionary.class 
+Does your program compile w/o error: no
+Errors: "cannot find symbol" on line 24, "cannot find symbol" on line 33, "cannot find symbol"
+	on line 65, "cannot find symbol" on line 77, "non-static method cannot be referenced from 
+	a static context" on line 135
+Does your program run w/o error: no
